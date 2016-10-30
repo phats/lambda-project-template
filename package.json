@@ -1,0 +1,21 @@
+{
+  "name": "lamba-project-template",
+  "version": "0.0.1",
+  "description": "A template for new JS projects using AWS Lambda",
+  "main": "index.js",
+  "dependencies": {
+    "gm": "^1.17.0",
+    "async": "^0.9.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "latest",
+    "grunt": "0.4.*",
+    "grunt-aws-lambda": "0.8.0",
+    "npm": "^2.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Plunkett",
+  "license": "MIT"
+}
